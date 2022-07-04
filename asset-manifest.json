@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brithday-card/static/css/main.4377f90b.css",
+    "main.js": "/brithday-card/static/js/main.a3f1acfd.js",
+    "static/js/787.de83e550.chunk.js": "/brithday-card/static/js/787.de83e550.chunk.js",
+    "index.html": "/brithday-card/index.html",
+    "main.4377f90b.css.map": "/brithday-card/static/css/main.4377f90b.css.map",
+    "main.a3f1acfd.js.map": "/brithday-card/static/js/main.a3f1acfd.js.map",
+    "787.de83e550.chunk.js.map": "/brithday-card/static/js/787.de83e550.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4377f90b.css",
+    "static/js/main.a3f1acfd.js"
+  ]
+}
